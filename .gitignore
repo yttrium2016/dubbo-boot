@@ -1,0 +1,5 @@
+/dubbo-api/target/
+/dubbo-consumer/mvnw
+/dubbo-consumer/mvnw.cmd
+/dubbo-provider/mvnw.cmd
+/.idea/
